@@ -1,0 +1,339 @@
+Gene_set	Term	P-value	Adjusted P-value	Old P-value	Old adjusted P-value	Odds Ratio	Combined Score	Genes
+WikiPathways_2024_Human	Gastric Cancer Network 1 WP2361	1.497813e-12	5.062607e-10	0	0	5.834439e+01	1.588543e+03	TOP2A;TPX2;CENPF;UBE2C;MCM4;MYBL2;ECT2;E2F7;KIF15
+WikiPathways_2024_Human	Retinoblastoma Gene In Cancer WP2446	6.086124e-12	1.028555e-09	0	0	1.747612e+01	4.513210e+02	TOP2A;PLK4;RRM2;TTK;CCNA2;CCNB2;ANLN;CCNB1;KIF4A;POLE2;CHEK1;CDK1;MCM4
+WikiPathways_2024_Human	Cell Cycle WP179	3.449488e-11	3.886424e-09	0	0	1.298456e+01	3.128007e+02	CDKN2A;PLK1;TTK;CDC6;CDC25C;CDC20;CCNA2;CCNB2;CCNB1;ORC6;CHEK1;CDK1;MCM4;BUB1
+WikiPathways_2024_Human	DNA IR Damage And Cellular Response Via ATR WP4016	1.589888e-07	1.343455e-05	0	0	1.230730e+01	1.926638e+02	RECQL4;FANCI;BRIP1;EXO1;CHEK1;PLK1;CDK1;FOXM1;CDC25C
+WikiPathways_2024_Human	Regulation Sister Chromatid Sep At Meta-Anaphase Transition WP4240	2.214646e-07	1.497101e-05	0	0	5.345973e+01	8.191636e+02	CDC20;CENPE;BUB1B;BUB1;MAD2L1
+WikiPathways_2024_Human	Amino Acid Metabolism In Triple Negative Breast Cancer Cells WP5213	3.805574e-05	2.143807e-03	0	0	7.180066e+01	7.306764e+02	PSAT1;SLC2A1;SLC7A11
+WikiPathways_2024_Human	G1 To S Cell Cycle Control WP45	5.535416e-05	2.197969e-03	0	0	9.967529e+00	9.769932e+01	CCNB1;ORC6;CDKN2A;POLE2;CDK1;MCM4
+WikiPathways_2024_Human	Primary Ovarian Insufficiency WP5461	6.937409e-05	2.197969e-03	0	0	6.340721e+00	6.071873e+01	FANCI;RECQL4;CENPE;EXO1;SALL4;XRCC2;HMMR;LGR4
+WikiPathways_2024_Human	DNA Replication WP466	7.404973e-05	2.197969e-03	0	0	1.299371e+01	1.235802e+02	ORC6;POLE2;MCM4;MCM10;CDC6
+WikiPathways_2024_Human	Metabolic Reprogramming In Colon Cancer WP4290	7.404973e-05	2.197969e-03	0	0	1.299371e+01	1.235802e+02	PSAT1;PPAT;SLC2A1;PYCR1;PAICS
+WikiPathways_2024_Human	DNA Damage Response WP707	7.803439e-05	2.197969e-03	0	0	9.323436e+00	8.818443e+01	CCNB2;CCNB1;CHEK1;CDK1;PMAIP1;CDC25C
+WikiPathways_2024_Human	miRNA Regulation Of DNA Damage Response WP1530	7.803439e-05	2.197969e-03	0	0	9.323436e+00	8.818443e+01	CCNB2;CCNB1;CHEK1;CDK1;PMAIP1;CDC25C
+WikiPathways_2024_Human	Neural Crest Differentiation WP2064	9.358694e-05	2.433260e-03	0	0	7.187160e+00	6.667255e+01	TFAP2A;DMBX1;LHX2;PAX7;LHX1;TWIST1;DLL3
+WikiPathways_2024_Human	Pancreatic Cancer Subtypes WP5390	1.416214e-04	3.419145e-03	0	0	1.117879e+01	9.907036e+01	S100A2;GPR87;SLC2A1;TFF1;FAM83A
+WikiPathways_2024_Human	GDNF RET Signaling Axis WP4830	2.240577e-04	5.048767e-03	0	0	1.534902e+01	1.289872e+02	GREM1;SALL1;GDNF;LHX1
+WikiPathways_2024_Human	Gastric Cancer Network 2 WP2363	2.919942e-04	6.168377e-03	0	0	1.421128e+01	1.156624e+02	TOP2A;FANCI;UBE2C;UBE2T
+WikiPathways_2024_Human	miR 509 3P Alteration Of YAP1 ECM Axis WP3967	6.842536e-04	1.342316e-02	0	0	2.050883e+01	1.494516e+02	COL3A1;TWIST1;THBS2
+WikiPathways_2024_Human	ATM Signaling WP2516	7.148426e-04	1.342316e-02	0	0	1.096057e+01	7.939234e+01	CCNB1;CHEK1;CDK1;CDC25C
+WikiPathways_2024_Human	Purine Metabolism And Related Disorders WP4224	1.490970e-03	2.652357e-02	0	0	1.510970e+01	9.833886e+01	PPAT;PAICS;XDH
+WikiPathways_2024_Human	DNA Repair Pathways Full Network WP4946	1.588018e-03	2.683750e-02	0	0	5.108331e+00	3.292456e+01	FANCI;NEIL3;BRIP1;EXO1;POLE2;CHEK1
+WikiPathways_2024_Human	Apoptosis WP254	1.881564e-03	3.028422e-02	0	0	6.078628e+00	3.814736e+01	HELLS;CDKN2A;BIRC5;PMAIP1;TNFRSF25
+WikiPathways_2024_Human	Apoptosis Modulation And Signaling WP1772	2.195700e-03	3.373394e-02	0	0	5.855756e+00	3.584457e+01	BCL2L10;CDKN2A;BIRC5;PMAIP1;TNFRSF25
+WikiPathways_2024_Human	DNA IR Double Strand Breaks And Cellular Response Via ATM WP3959	2.431763e-03	3.573635e-02	0	0	7.669235e+00	4.616219e+01	EXO1;CDKN2A;CHEK1;CDC25C
+WikiPathways_2024_Human	Metabolic Epileptic Disorders WP5355	2.546403e-03	3.586185e-02	0	0	5.648615e+00	3.373959e+01	PSAT1;SLC2A1;SFXN1;SLC2A5;XDH
+WikiPathways_2024_Human	P53 Transcriptional Gene Network WP4963	2.671840e-03	3.612328e-02	0	0	5.582780e+00	3.307790e+01	SLC2A1;PMAIP1;SLC7A11;CDC25C;E2F7
+WikiPathways_2024_Human	Glucose Metabolism In Triple Negative Breast Cancer Cells WP5211	2.907400e-03	3.779621e-02	0	0	3.182590e+01	1.858790e+02	SLC2A1;PDK1
+WikiPathways_2024_Human	Vitamin D Receptor Pathway WP2877	3.204461e-03	4.011510e-02	0	0	3.829923e+00	2.199606e+01	CST1;S100A2;CDKN2A;SALL4;CA9;PTHLH;KLK6
+WikiPathways_2024_Human	Markers Of Kidney Cell Lineage WP5236	3.360146e-03	4.056176e-02	0	0	6.971072e+00	3.970563e+01	EGLN3;SALL1;GDNF;LHX1
+WikiPathways_2024_Human	Development Of Ureteric Derived Collecting System WP5053	3.571023e-03	4.162089e-02	0	0	6.846400e+00	3.857880e+01	SALL1;GDNF;LHX1;ETV4
+WikiPathways_2024_Human	NRF2 Pathway WP2884	3.708769e-03	4.178546e-02	0	0	4.273268e+00	2.391772e+01	NQO1;GPX2;ABCC2;SLC2A1;SLC7A11;SLC2A5
+WikiPathways_2024_Human	Monoamine Transport WP727	4.446721e-03	4.696849e-02	0	0	9.896733e+00	5.359663e+01	CDC25C;FBXO32;STX1A
+WikiPathways_2024_Human	Metabolic Pathways Of Fibroblasts WP5312	4.446721e-03	4.696849e-02	0	0	9.896733e+00	5.359663e+01	PSAT1;SLC2A1;PYCR1
+WikiPathways_2024_Human	Cohesin Complex Cornelia De Lange Syndrome WP5117	5.283150e-03	5.411227e-02	0	0	9.257725e+00	4.854041e+01	SGO1;PLK1;CDK1
+WikiPathways_2024_Human	PtdIns 4 5 P2 In Cytokinesis Pathway WP5199	5.594127e-03	5.561220e-02	0	0	2.121551e+01	1.100245e+02	ANLN;KIF23
+WikiPathways_2024_Human	Nuclear Receptors Meta Pathway WP2882	6.006141e-03	5.800216e-02	0	0	2.846515e+00	1.455985e+01	NQO1;GPX2;SRPX2;ABCC2;ZIC2;CDK1;SLC2A1;SLC7A11;SLC2A5
+WikiPathways_2024_Human	Photodynamic Therapy Induced HIF 1 Survival Signaling WP3614	6.704255e-03	6.294551e-02	0	0	8.440170e+00	4.224316e+01	SLC2A1;PMAIP1;BIRC5
+WikiPathways_2024_Human	MECP2 And Associated Rett Syndrome WP3584	7.173719e-03	6.553289e-02	0	0	5.554510e+00	2.742446e+01	RBFOX1;DLX6;POU3F2;EZH2
+WikiPathways_2024_Human	Transcriptional Activation By NRF2 In Response To Phytochemicals WP3	1.039022e-02	9.153784e-02	0	0	1.468605e+01	6.706957e+01	NQO1;SLC7A11
+WikiPathways_2024_Human	Integrated Cancer Pathway WP1971	1.083288e-02	9.153784e-02	0	0	6.997818e+00	3.166631e+01	CHEK1;PLK1;CDK1
+WikiPathways_2024_Human	Genes Controlling Nephrogenesis WP4823	1.083288e-02	9.153784e-02	0	0	6.997818e+00	3.166631e+01	GDNF;LHX1;ETV4
+WikiPathways_2024_Human	Pathophysiological Roles Of DUX4 In FSHD1 WP5342	1.179342e-02	9.722382e-02	0	0	1.363667e+01	6.054973e+01	PAX7;FBXO32
+WikiPathways_2024_Human	Chronic Hyperglycemia Impairment Of Neuron Function WP5283	1.222878e-02	9.841253e-02	0	0	6.671971e+00	2.938311e+01	MMP11;SCN8A;SLC2A1
+WikiPathways_2024_Human	Male Infertility WP4673	1.545835e-02	1.204139e-01	0	0	3.578240e+00	1.491985e+01	NQO1;PSAT1;XRCC2;YBX2;TRIP13
+WikiPathways_2024_Human	Endoderm Differentiation WP2853	1.589823e-02	1.204139e-01	0	0	3.551636e+00	1.470927e+01	LHX1;ONECUT1;DNMT3B;PTHLH;EZH2
+WikiPathways_2024_Human	KCNQ2 Related Epilepsies WP5360	1.646414e-02	1.204139e-01	0	0	1.122927e+01	4.611380e+01	KCNQ2;STX1A
+WikiPathways_2024_Human	TP53 Network WP1742	1.646414e-02	1.204139e-01	0	0	1.122927e+01	4.611380e+01	CDKN2A;PMAIP1
+WikiPathways_2024_Human	Senescence Associated Secretory Phenotype SASP WP3391	1.701009e-02	1.204139e-01	0	0	5.854028e+00	2.384901e+01	CCNA2;UBE2C;CDKN2A
+WikiPathways_2024_Human	Network Map Of SARS CoV 2 Signaling WP5115	1.736780e-02	1.204139e-01	0	0	2.734810e+00	1.108456e+01	CCNB2;CCNB1;RRM2;CDK1;BIRC5;CXCL13;FAM83A
+WikiPathways_2024_Human	Apoptosis Related Network Due To Altered Notch3 Ovarian Cancer WP2864	1.789449e-02	1.204139e-01	0	0	5.736789e+00	2.308061e+01	HELLS;NQO1;BIRC5
+WikiPathways_2024_Human	Hereditary Leiomyomatosis And Renal Cell Carcinoma Pathway WP4206	1.816896e-02	1.204139e-01	0	0	1.060513e+01	4.250580e+01	SLC2A1;PDK1
+WikiPathways_2024_Human	Cell Differentiation Expanded Index WP2023	1.816896e-02	1.204139e-01	0	0	1.060513e+01	4.250580e+01	PAX7;EZH2
+WikiPathways_2024_Human	Effects Of MFN2 Mutation WP5443	2.179029e-02	1.363911e-01	0	0	9.544094e+00	3.651848e+01	RAB3B;TUBB3
+WikiPathways_2024_Human	Transcription Factor Regulation In Adipogenesis WP3599	2.179029e-02	1.363911e-01	0	0	9.544094e+00	3.651848e+01	LEP;TWIST1
+WikiPathways_2024_Human	miRNA Targets In ECM And Membrane Receptors WP2911	2.179029e-02	1.363911e-01	0	0	9.544094e+00	3.651848e+01	COL3A1;THBS2
+WikiPathways_2024_Human	Photodynamic Therapy Induced NFE2L2 NRF2 Survival Signaling WP3612	2.370352e-02	1.405577e-01	0	0	9.089364e+00	3.401360e+01	NQO1;ABCC2
+WikiPathways_2024_Human	NRF2 ARE Regulation WP4357	2.370352e-02	1.405577e-01	0	0	9.089364e+00	3.401360e+01	NQO1;SLC7A11
+WikiPathways_2024_Human	DNA Mismatch Repair WP531	2.370352e-02	1.405577e-01	0	0	9.089364e+00	3.401360e+01	EXO1;POLE2
+WikiPathways_2024_Human	Regulation Of Apoptosis By Parathyroid Hormone Related Protein WP3872	2.568297e-02	1.496697e-01	0	0	8.675972e+00	3.177078e+01	BCL2L10;PTHLH
+WikiPathways_2024_Human	Androgen Receptor Network In Prostate Cancer WP2263	2.746398e-02	1.558443e-01	0	0	3.646488e+00	1.310869e+01	CHEK1;PLK1;CDK1;ETV4
+WikiPathways_2024_Human	Differentiation Of White And Brown Adipocyte WP2895	2.772707e-02	1.558443e-01	0	0	8.298528e+00	2.975310e+01	LEP;EBF3
+WikiPathways_2024_Human	Pathways Affected In Adenoid Cystic Carcinoma WP3651	2.812575e-02	1.558443e-01	0	0	4.779342e+00	1.706736e+01	UHRF1;CHEK1;INSRR
+WikiPathways_2024_Human	HDAC6 Interactions In The Central Nervous System WP5426	2.909846e-02	1.586335e-01	0	0	3.578132e+00	1.265610e+01	CDC20;TUBB3;TWIST1;BIRC5
+WikiPathways_2024_Human	Intracellular Trafficking Proteins Involved In CMT Neuropathy WP4856	3.200300e-02	1.711980e-01	0	0	7.634226e+00	2.627644e+01	RAB3B;NEFL
+WikiPathways_2024_Human	Trans Sulfuration One Carbon Metabolism And Related Pathways WP2525	3.292270e-02	1.711980e-01	0	0	4.480140e+00	1.529337e+01	GPX2;PSAT1;DNMT3B
+WikiPathways_2024_Human	AMP Activated Protein Kinase Signaling WP1403	3.292270e-02	1.711980e-01	0	0	4.480140e+00	1.529337e+01	CCNA2;CCNB1;LEP
+WikiPathways_2024_Human	IL19 Signaling WP5422	3.423181e-02	1.753084e-01	0	0	7.340400e+00	2.477091e+01	CCNB1;IL20RB
+WikiPathways_2024_Human	Tumor Suppressor Activity Of SMARCB1 WP4204	3.651920e-02	1.842312e-01	0	0	7.068339e+00	2.339562e+01	CDKN2A;EZH2
+WikiPathways_2024_Human	Extrafollicular And Follicular B Cell Activation By SARS CoV 2 WP5218	3.947722e-02	1.900889e-01	0	0	4.154920e+00	1.342883e+01	FCRL5;CD19;CXCL13
+WikiPathways_2024_Human	Non Small Cell Lung Cancer WP4255	3.947722e-02	1.900889e-01	0	0	4.154920e+00	1.342883e+01	CRABP2;CDKN2A;PDK1
+WikiPathways_2024_Human	Pleural Mesothelioma WP5087	4.039236e-02	1.900889e-01	0	0	2.026350e+00	6.502789e+00	CDKN2A;UHRF1;SLC2A1;KIF23;FOXM1;EZH2;PDK1;MAD2L1;CTHRC1
+WikiPathways_2024_Human	Antiviral And Anti-Inflam Effects Of Nrf2 On SARS CoV 2 Pathway WP5113	4.126390e-02	1.900889e-01	0	0	6.580505e+00	2.097712e+01	NQO1;SLC7A11
+WikiPathways_2024_Human	Base Excision Repair WP4752	4.126390e-02	1.900889e-01	0	0	6.580505e+00	2.097712e+01	NEIL3;POLE2
+WikiPathways_2024_Human	16P11 2 Distal Deletion Syndrome WP4950	4.126390e-02	1.900889e-01	0	0	6.580505e+00	2.097712e+01	CD19;ATP2A1
+WikiPathways_2024_Human	Metapathway Biotransformation Phase I And II WP702	4.161709e-02	1.900889e-01	0	0	2.721185e+00	8.651312e+00	GLYATL2;GPX2;AKR7A3;AKR1B10;HS6ST2
+WikiPathways_2024_Human	Pregnane X Receptor Pathway WP2876	4.371839e-02	1.970242e-01	0	0	6.360980e+00	1.990978e+01	SRPX2;ABCC2
+WikiPathways_2024_Human	Fluoropyrimidine Activity WP1601	4.622577e-02	2.029131e-01	0	0	6.155618e+00	1.892371e+01	RRM2;PPAT
+WikiPathways_2024_Human	Oxidative Stress Response WP408	4.622577e-02	2.029131e-01	0	0	6.155618e+00	1.892371e+01	NQO1;XDH
+WikiPathways_2024_Human	Type 2 Papillary Renal Cell Carcinoma WP4241	4.878469e-02	2.114003e-01	0	0	5.963091e+00	1.801055e+01	EGLN3;SLC2A1
+WikiPathways_2024_Human	Cell Lineage Map For Neuronal Differentiation WP5417	4.970233e-02	2.126505e-01	0	0	2.989363e+00	8.973183e+00	TUBB3;LHX1;TWIST1;NEFL
+WikiPathways_2024_Human	Cytokine Cytokine Receptor Interaction WP5473	5.092406e-02	2.128762e-01	0	0	2.318923e+00	6.904407e+00	TNFRSF18;LEP;IL31RA;IL20RB;TNFRSF25;CXCL13
+WikiPathways_2024_Human	Proline And Hydroxyproline Pathways WP5026	5.101470e-02	2.128762e-01	0	0	2.380825e+01	7.084480e+01	PYCR1
+WikiPathways_2024_Human	Factors And Pathways Affecting IGF1 Akt Signaling WP3850	5.405179e-02	2.227989e-01	0	0	5.612012e+00	1.637480e+01	FBXO32;PDK1
+WikiPathways_2024_Human	Circadian Rhythm Genes WP3594	5.800049e-02	2.312901e-01	0	0	2.467477e+00	7.025656e+00	TOP2A;LEP;SOX14;LGR4;EZH2
+WikiPathways_2024_Human	Amino Acid Metabolism Pathway Excerpt His Catabolism Extension WP4661	6.090183e-02	2.312901e-01	0	0	1.904607e+01	5.330029e+01	GPT2
+WikiPathways_2024_Human	GLP 1 From Intestine And Pancreas Role In Glucose Homeostasis WP5452	6.090183e-02	2.312901e-01	0	0	1.904607e+01	5.330029e+01	SLC2A1
+WikiPathways_2024_Human	Benzene Metabolism WP3891	6.090183e-02	2.312901e-01	0	0	1.904607e+01	5.330029e+01	NQO1
+WikiPathways_2024_Human	CCL18 Signaling WP5097	6.090183e-02	2.312901e-01	0	0	1.904607e+01	5.330029e+01	AK4
+WikiPathways_2024_Human	Molybdenum Cofactor Moco Biosynthesis WP4507	6.090183e-02	2.312901e-01	0	0	1.904607e+01	5.330029e+01	XDH
+WikiPathways_2024_Human	Lacto Series Sphingolipid Metabolism WP5303	6.090183e-02	2.312901e-01	0	0	1.904607e+01	5.330029e+01	FUT2
+WikiPathways_2024_Human	Orexin Receptor Pathway WP5094	6.446195e-02	2.345809e-01	0	0	3.371331e+00	9.243112e+00	LEP;SLC2A1;PDK1
+WikiPathways_2024_Human	Neural Crest Cell Migration During Development WP4564	6.514697e-02	2.345809e-01	0	0	5.020721e+00	1.371214e+01	TWIST1;EPHB1
+WikiPathways_2024_Human	Catabolism Of Skeletal Muscle In Cachexia WP5474	6.514697e-02	2.345809e-01	0	0	5.020721e+00	1.371214e+01	FBXO32;PDK1
+WikiPathways_2024_Human	Glycogen Synthesis And Degradation WP500	6.514697e-02	2.345809e-01	0	0	5.020721e+00	1.371214e+01	PPP2R2C;PHKA1
+WikiPathways_2024_Human	Ciliary Landscape WP4352	6.523848e-02	2.345809e-01	0	0	2.381084e+00	6.499659e+00	TFAP2A;NEFL;MCM4;MCM10;IQGAP3
+WikiPathways_2024_Human	mRNA Protein And Metabolite Inducation Pathway By Cyclosporin A WP3953	7.068621e-02	2.413327e-01	0	0	1.587129e+01	4.205106e+01	SLC7A11
+WikiPathways_2024_Human	Effects Of Nitric Oxide WP1995	7.068621e-02	2.413327e-01	0	0	1.587129e+01	4.205106e+01	XDH
+WikiPathways_2024_Human	Aflatoxin B1 Metabolism WP699	7.068621e-02	2.413327e-01	0	0	1.587129e+01	4.205106e+01	AKR7A3
+WikiPathways_2024_Human	Hypothetical Craniofacial Development Pathway WP3655	7.068621e-02	2.413327e-01	0	0	1.587129e+01	4.205106e+01	TFAP2A
+WikiPathways_2024_Human	GLP 1 In Pancreatic Islet Cells WP5447	7.068621e-02	2.413327e-01	0	0	1.587129e+01	4.205106e+01	SLC2A1
+WikiPathways_2024_Human	Neural Crest Cell Migration In Cancer WP4565	7.392023e-02	2.498504e-01	0	0	4.652967e+00	1.211990e+01	TWIST1;EPHB1
+WikiPathways_2024_Human	Glycolysis And Gluconeogenesis WP534	7.692439e-02	2.574301e-01	0	0	4.542057e+00	1.165007e+01	SLC2A1;SLC2A5
+WikiPathways_2024_Human	TROP2 Regulatory Signaling WP5300	7.996652e-02	2.587114e-01	0	0	4.436306e+00	1.120676e+01	CDKN2A;CHEK1
+WikiPathways_2024_Human	Ketogenesis And Ketolysis WP4742	8.036891e-02	2.587114e-01	0	0	1.360359e+01	3.429639e+01	SLC2A1
+WikiPathways_2024_Human	Hunger And Satiety WP5445	8.036891e-02	2.587114e-01	0	0	1.360359e+01	3.429639e+01	LEP
+WikiPathways_2024_Human	Serine Metabolism WP4688	8.036891e-02	2.587114e-01	0	0	1.360359e+01	3.429639e+01	PSAT1
+WikiPathways_2024_Human	Epithelial To Mesenchymal Transition In Colorectal Cancer WP4239	8.532574e-02	2.690569e-01	0	0	2.466797e+00	6.071476e+00	TWIST1;FOXM1;EZH2;DLL3
+WikiPathways_2024_Human	Cancer Pathways WP5434	8.550200e-02	2.690569e-01	0	0	1.734022e+00	4.264333e+00	GNGT1;CCNA2;NQO1;EGLN3;CDKN2A;SLC2A1;BIRC5;PMAIP1;DLL3
+WikiPathways_2024_Human	ATM Signaling In Development And Disease WP3878	8.616027e-02	2.690569e-01	0	0	4.238903e+00	1.039187e+01	CHEK1;BUB1
+WikiPathways_2024_Human	Rett Syndrome WP4312	8.930972e-02	2.690569e-01	0	0	4.146639e+00	1.001681e+01	SCN8A;GABRA3
+WikiPathways_2024_Human	Microtubule Cytoskeleton Regulation WP2038	8.930972e-02	2.690569e-01	0	0	4.146639e+00	1.001681e+01	CDK1;KIF2C
+WikiPathways_2024_Human	Somitogenesis In The Context Of Spondylocostal Dysostosis WP4785	8.995099e-02	2.690569e-01	0	0	1.190281e+01	2.866781e+01	DLL3
+WikiPathways_2024_Human	Acetaminophen In Analgesia And Antipyresis WP5444	8.995099e-02	2.690569e-01	0	0	1.190281e+01	2.866781e+01	KCNQ2
+WikiPathways_2024_Human	HIF1A And PPARG In Cardiac Hypertropthy WP2456	8.995099e-02	2.690569e-01	0	0	1.190281e+01	2.866781e+01	SLC2A1
+WikiPathways_2024_Human	Hepatitis C And Hepatocellular Carcinoma WP3646	9.249280e-02	2.718484e-01	0	0	4.058301e+00	9.661291e+00	RRM2;BIRC5
+WikiPathways_2024_Human	Osteoarthritic Chondrocyte Hypertrophy WP5373	9.249280e-02	2.718484e-01	0	0	4.058301e+00	9.661291e+00	COL3A1;COL10A1
+WikiPathways_2024_Human	Photodynamic Therapy Induced AP 1 Survival Signaling WP3611	9.570848e-02	2.754797e-01	0	0	3.973644e+00	9.323950e+00	CCNA2;CDKN2A
+WikiPathways_2024_Human	Focal Adhesion PI3K Akt mTOR Signaling WP3932	9.857571e-02	2.754797e-01	0	0	1.933714e+00	4.480280e+00	GNGT1;COL3A1;PPP2R2C;COL11A1;SLC2A1;THBS2
+WikiPathways_2024_Human	Ciliopathies WP4803	9.935821e-02	2.754797e-01	0	0	2.330845e+00	5.381976e+00	PLK4;CENPF;ZIC2;NEK2
+WikiPathways_2024_Human	TCA Cycle In Senescence WP5050	9.943349e-02	2.754797e-01	0	0	1.057999e+01	2.442143e+01	PDK1
+WikiPathways_2024_Human	Leptin And Adiponectin WP3934	9.943349e-02	2.754797e-01	0	0	1.057999e+01	2.442143e+01	LEP
+WikiPathways_2024_Human	Aspirin And miRNAs WP4707	9.943349e-02	2.754797e-01	0	0	1.057999e+01	2.442143e+01	PDK1
+WikiPathways_2024_Human	Nucleotide GPCRs WP80	9.943349e-02	2.754797e-01	0	0	1.057999e+01	2.442143e+01	P2RY6
+WikiPathways_2024_Human	Primary Ovarian Insufficiency WP5316	1.026138e-01	2.819793e-01	0	0	2.302635e+00	5.242601e+00	RECQL4;EXO1;SALL4;XRCC2
+WikiPathways_2024_Human	DNA Damage Response Only ATM Dependent WP710	1.034682e-01	2.820344e-01	0	0	2.727669e+00	6.187692e+00	CDKN2A;PMAIP1;PDK1
+WikiPathways_2024_Human	Vitamin B12 Disorders WP4271	1.088174e-01	2.851186e-01	0	0	9.521728e+00	2.111999e+01	TCN1
+WikiPathways_2024_Human	FBXL10 Enhancement Of MAP ERK Signaling In DLBCL WP4553	1.088174e-01	2.851186e-01	0	0	9.521728e+00	2.111999e+01	EZH2
+WikiPathways_2024_Human	ATR Signaling WP3875	1.088174e-01	2.851186e-01	0	0	9.521728e+00	2.111999e+01	CHEK1
+WikiPathways_2024_Human	Neolacto Series Sphingolipid Metabolism WP5302	1.088174e-01	2.851186e-01	0	0	9.521728e+00	2.111999e+01	FUT2
+WikiPathways_2024_Human	Serotonin Transporter Activity WP1455	1.088174e-01	2.851186e-01	0	0	9.521728e+00	2.111999e+01	STX1A
+WikiPathways_2024_Human	Resolvin E1 And Resolvin D1 Signaling Decrease Inflammation WP5191	1.181039e-01	2.894822e-01	0	0	8.655878e+00	1.849061e+01	PDK1
+WikiPathways_2024_Human	Aerobic Glycolysis WP4629	1.181039e-01	2.894822e-01	0	0	8.655878e+00	1.849061e+01	SLC2A1
+WikiPathways_2024_Human	Irinotecan Pathway WP229	1.181039e-01	2.894822e-01	0	0	8.655878e+00	1.849061e+01	ABCC2
+WikiPathways_2024_Human	Purine Metabolism WP4792	1.181039e-01	2.894822e-01	0	0	8.655878e+00	1.849061e+01	XDH
+WikiPathways_2024_Human	PGK1 PKM2 KHKC KHKA Acting As Protein Kinases WP5433	1.181039e-01	2.894822e-01	0	0	8.655878e+00	1.849061e+01	PDK1
+WikiPathways_2024_Human	Spina Bifida WP5150	1.181039e-01	2.894822e-01	0	0	8.655878e+00	1.849061e+01	DNMT3B
+WikiPathways_2024_Human	Enterohepatic Circulation Of Bile Acids WP5396	1.181039e-01	2.894822e-01	0	0	8.655878e+00	1.849061e+01	ABCC2
+WikiPathways_2024_Human	15Q11Q13 Copy Number Variation WP5407	1.190474e-01	2.894822e-01	0	0	3.467239e+00	7.379094e+00	FANCI;STX1A
+WikiPathways_2024_Human	Proximal Tubule Transport WP4917	1.190474e-01	2.894822e-01	0	0	3.467239e+00	7.379094e+00	ABCC2;SLC2A1
+WikiPathways_2024_Human	2Q13 Copy Number Variation Syndrome WP5222	1.190474e-01	2.894822e-01	0	0	3.467239e+00	7.379094e+00	CKAP2L;CXCL13
+WikiPathways_2024_Human	Spinal Cord Injury WP2431	1.211536e-01	2.924993e-01	0	0	2.534001e+00	5.348506e+00	GDNF;LEP;CDK1
+WikiPathways_2024_Human	Lactate Shuttle In Glial Cells WP5314	1.272938e-01	2.926891e-01	0	0	7.934337e+00	1.635471e+01	SLC2A1
+WikiPathways_2024_Human	Aerobic Glycolysis Augmented WP4628	1.272938e-01	2.926891e-01	0	0	7.934337e+00	1.635471e+01	SLC2A1
+WikiPathways_2024_Human	Vitamin K Metabolism And Activation Of Dependent Proteins WP5186	1.272938e-01	2.926891e-01	0	0	7.934337e+00	1.635471e+01	NQO1
+WikiPathways_2024_Human	H19 Rb E2F1 And CDK Beta Catenin In Colorectal Cancer WP3969	1.272938e-01	2.926891e-01	0	0	7.934337e+00	1.635471e+01	PMAIP1
+WikiPathways_2024_Human	Dopamine Metabolism WP2436	1.272938e-01	2.926891e-01	0	0	7.934337e+00	1.635471e+01	NQO1
+WikiPathways_2024_Human	Ganglio Series Sphingolipid Metabolism WP5299	1.272938e-01	2.926891e-01	0	0	7.934337e+00	1.635471e+01	B4GALNT1
+WikiPathways_2024_Human	Ganglio Sphingolipid Metabolism WP1423	1.272938e-01	2.926891e-01	0	0	7.934337e+00	1.635471e+01	B4GALNT1
+WikiPathways_2024_Human	Abnormal Ca Handling And Effects On Muscle Contraction In DMD WP5343	1.363881e-01	3.073280e-01	0	0	7.323802e+00	1.459085e+01	ATP2A1
+WikiPathways_2024_Human	6Q16 Copy Number Variation WP5400	1.363881e-01	3.073280e-01	0	0	7.323802e+00	1.459085e+01	LEP
+WikiPathways_2024_Human	Codeine And Morphine Metabolism WP1604	1.363881e-01	3.073280e-01	0	0	7.323802e+00	1.459085e+01	ABCC2
+WikiPathways_2024_Human	Endochondral Ossification WP474	1.400377e-01	3.113996e-01	0	0	3.125683e+00	6.144604e+00	COL10A1;PTHLH
+WikiPathways_2024_Human	Endochondral Ossification With Skeletal Dysplasias WP4808	1.400377e-01	3.113996e-01	0	0	3.125683e+00	6.144604e+00	COL10A1;PTHLH
+WikiPathways_2024_Human	Biosynth Of Tetrahydrobiopterin And Phenylalanine Catabolism WP4156	1.453880e-01	3.190984e-01	0	0	6.800486e+00	1.311371e+01	DNAJC12
+WikiPathways_2024_Human	Biomarkers For Pyrimidine Metabolism Disorders WP4584	1.453880e-01	3.190984e-01	0	0	6.800486e+00	1.311371e+01	RRM2
+WikiPathways_2024_Human	SARS CoV 2 Innate Immunity Evasion And Cell Immune Response WP5039	1.472019e-01	3.209952e-01	0	0	3.026288e+00	5.798217e+00	TFAP2A;CXCL13
+WikiPathways_2024_Human	Interactome Of Polycomb Repressive Complex 2 PRC2 WP2916	1.542943e-01	3.321116e-01	0	0	6.346946e+00	1.186176e+01	EZH2
+WikiPathways_2024_Human	2Q37 Copy Number Variation Syndrome WP5224	1.544735e-01	3.321116e-01	0	0	2.253792e+00	4.209481e+00	HJURP;TRPM8;CENPA
+WikiPathways_2024_Human	Adipogenesis WP236	1.569555e-01	3.321116e-01	0	0	2.236123e+00	4.140837e+00	LEP;TWIST1;SPOCK1
+WikiPathways_2024_Human	TGF Beta Signaling Pathway WP366	1.594497e-01	3.321116e-01	0	0	2.218727e+00	4.073642e+00	CCNB2;CDK1;PDK1
+WikiPathways_2024_Human	Urotensin II Mediated Signaling WP5158	1.617433e-01	3.321116e-01	0	0	2.845301e+00	5.183412e+00	COL3A1;CDK1
+WikiPathways_2024_Human	NOTCH1 Regulation Of Endothelial Cell Calcification WP3413	1.631081e-01	3.321116e-01	0	0	5.950098e+00	1.078957e+01	DLL3
+WikiPathways_2024_Human	Estrogen Metabolism WP697	1.631081e-01	3.321116e-01	0	0	5.950098e+00	1.078957e+01	NQO1
+WikiPathways_2024_Human	Canonical And Non Canonical TGF B Signaling WP3874	1.631081e-01	3.321116e-01	0	0	5.950098e+00	1.078957e+01	GREM1
+WikiPathways_2024_Human	Cori Cycle WP1946	1.631081e-01	3.321116e-01	0	0	5.950098e+00	1.078957e+01	SLC2A1
+WikiPathways_2024_Human	Drug Induction Of Bile Acid Pathway WP2289	1.631081e-01	3.321116e-01	0	0	5.950098e+00	1.078957e+01	ABCC2
+WikiPathways_2024_Human	Leptin Insulin Signaling Overlap WP3935	1.631081e-01	3.321116e-01	0	0	5.950098e+00	1.078957e+01	LEP
+WikiPathways_2024_Human	Ectoderm Differentiation WP2858	1.670042e-01	3.380085e-01	0	0	2.168122e+00	3.880367e+00	TFAP2A;LHX1;FHL2
+WikiPathways_2024_Human	Cytosolic DNA Sensing Pathway WP4655	1.691086e-01	3.402303e-01	0	0	2.762676e+00	4.909868e+00	AIM2;POLR3G
+WikiPathways_2024_Human	Interactions Between LOXL4 And Oxidative Stress Pathway WP3670	1.718302e-01	3.435916e-01	0	0	5.599938e+00	9.862884e+00	NQO1
+WikiPathways_2024_Human	Axon Guidance WP5289	1.728123e-01	3.435916e-01	0	0	2.723135e+00	4.780597e+00	DPYSL5;EPHB1
+WikiPathways_2024_Human	Chromosomal And Microsatellite Instability In Colorectal Cancer WP4216	1.765292e-01	3.489292e-01	0	0	2.684707e+00	4.656003e+00	BIRC5;PMAIP1
+WikiPathways_2024_Human	Extracellular Vesicles In The Crosstalk Of Cardiac Cells WP4300	1.804616e-01	3.503821e-01	0	0	5.288685e+00	9.055483e+00	BIRC5
+WikiPathways_2024_Human	Glutathione Metabolism WP100	1.804616e-01	3.503821e-01	0	0	5.288685e+00	9.055483e+00	GPX2
+WikiPathways_2024_Human	Cholestasis WP5238	1.804616e-01	3.503821e-01	0	0	5.288685e+00	9.055483e+00	ABCC2
+WikiPathways_2024_Human	ADHD And Autism ASD Pathways WP5420	1.814108e-01	3.503821e-01	0	0	1.601514e+00	2.733771e+00	TCN1;SCN8A;GABRA3;XDH;STX1A;DLGAP5
+WikiPathways_2024_Human	NF1 Copy Number Variation Syndrome WP5366	1.877523e-01	3.529455e-01	0	0	2.575654e+00	4.308121e+00	CCNA2;ATAD5
+WikiPathways_2024_Human	Glycosphingolipid Metabolism WP5292	1.890034e-01	3.529455e-01	0	0	5.010196e+00	8.346938e+00	B4GALNT1
+WikiPathways_2024_Human	Hematopoietic SC Gene Regulation By GABP Alpha Beta Complex WP3657	1.890034e-01	3.529455e-01	0	0	5.010196e+00	8.346938e+00	DNMT3B
+WikiPathways_2024_Human	Ca Mediated T Cell Apoptosis Inclusion Body Myositis WP5142	1.890034e-01	3.529455e-01	0	0	5.010196e+00	8.346938e+00	ATP2A1
+WikiPathways_2024_Human	Autophagy In Pancreatic Ductal Adenocarcinoma WP5331	1.890034e-01	3.529455e-01	0	0	5.010196e+00	8.346938e+00	VMP1
+WikiPathways_2024_Human	Pyrimidine Metabolism And Related Diseases WP4225	1.890034e-01	3.529455e-01	0	0	5.010196e+00	8.346938e+00	RRM2
+WikiPathways_2024_Human	Mesodermal Commitment Pathway WP2857	1.928921e-01	3.582282e-01	0	0	2.014881e+00	3.315737e+00	ZIC2;DNMT3B;HMGA2
+WikiPathways_2024_Human	Metabolism Of Sphingolipids In ER And Golgi Apparatus WP4142	1.974563e-01	3.588184e-01	0	0	4.759555e+00	7.721131e+00	B4GALNT1
+WikiPathways_2024_Human	FOXA2 Pathway WP5066	1.974563e-01	3.588184e-01	0	0	4.759555e+00	7.721131e+00	ABCC2
+WikiPathways_2024_Human	Urea Cycle And Metabolism Of Amino Groups WP497	1.974563e-01	3.588184e-01	0	0	4.759555e+00	7.721131e+00	PYCR1
+WikiPathways_2024_Human	GNAQ Pathways In Port Wine Stain WP5437	1.974563e-01	3.588184e-01	0	0	4.759555e+00	7.721131e+00	PDK1
+WikiPathways_2024_Human	Clock Controlled Autophagy In Bone Metabolism WP5205	1.990704e-01	3.598171e-01	0	0	2.475100e+00	3.995050e+00	LEP;CTHRC1
+WikiPathways_2024_Human	NAD Metab In Oncogene Induced And Mt Dysfunction Senescence WP5046	2.058213e-01	3.661453e-01	0	0	4.532785e+00	7.165185e+00	SLC2A1
+WikiPathways_2024_Human	Synthesis Of Ceramides And 1 Deoxyceramides WP5194	2.058213e-01	3.661453e-01	0	0	4.532785e+00	7.165185e+00	B4GALNT1
+WikiPathways_2024_Human	PKC Gamma Calcium Signaling In Ataxia WP4760	2.058213e-01	3.661453e-01	0	0	4.532785e+00	7.165185e+00	PDK1
+WikiPathways_2024_Human	Calcium Regulation In Cardiac Cells WP536	2.088774e-01	3.696365e-01	0	0	1.932877e+00	3.026900e+00	GNGT1;RGS17;GJB2
+WikiPathways_2024_Human	Unfolded Protein Response WP4925	2.140994e-01	3.701207e-01	0	0	4.326630e+00	6.668699e+00	PMAIP1
+WikiPathways_2024_Human	Estrogen Signaling WP712	2.140994e-01	3.701207e-01	0	0	4.326630e+00	6.668699e+00	GNGT1
+WikiPathways_2024_Human	Nanoparticle Triggered Autophagic Cell Death WP2509	2.140994e-01	3.701207e-01	0	0	4.326630e+00	6.668699e+00	VMP1
+WikiPathways_2024_Human	MTHFR Deficiency WP4288	2.140994e-01	3.701207e-01	0	0	4.326630e+00	6.668699e+00	DNMT3B
+WikiPathways_2024_Human	Sudden Infant Death Syndrome SIDS Susceptibility Pathways WP706	2.196933e-01	3.701207e-01	0	0	1.881804e+00	2.851917e+00	HTR3A;FOXM1;POU3F2
+WikiPathways_2024_Human	Selenium Micronutrient Network WP15	2.219263e-01	3.701207e-01	0	0	2.295797e+00	3.456116e+00	GPX2;XDH
+WikiPathways_2024_Human	Amino Acid Metabolism WP3925	2.219263e-01	3.701207e-01	0	0	2.295797e+00	3.456116e+00	GPT2;PYCR1
+WikiPathways_2024_Human	Clear Cell Renal Cell Carcinoma Pathways WP4018	2.219263e-01	3.701207e-01	0	0	2.295797e+00	3.456116e+00	PSAT1;SLC2A1
+WikiPathways_2024_Human	Triacylglyceride Synthesis WP325	2.222914e-01	3.701207e-01	0	0	4.138402e+00	6.223188e+00	PLPP2
+WikiPathways_2024_Human	miRNA Regulation Of P53 Pathway In Prostate Cancer WP3982	2.222914e-01	3.701207e-01	0	0	4.138402e+00	6.223188e+00	PMAIP1
+WikiPathways_2024_Human	Hippocampal Synaptogenesis And Neurogenesis WP5231	2.222914e-01	3.701207e-01	0	0	4.138402e+00	6.223188e+00	SYT12
+WikiPathways_2024_Human	Urea Cycle And Associated Pathways WP4595	2.222914e-01	3.701207e-01	0	0	4.138402e+00	6.223188e+00	PYCR1
+WikiPathways_2024_Human	Hair Follicle Development Cytodifferentiation Stage 3 Of 3 WP2840	2.257574e-01	3.740491e-01	0	0	2.268404e+00	3.376052e+00	LHX2;KLK6
+WikiPathways_2024_Human	Warburg Effect Mod By Deubiquitinating Enzymes And Substrates WP5216	2.303983e-01	3.762059e-01	0	0	3.965860e+00	5.821667e+00	SLC2A1
+WikiPathways_2024_Human	4 Hydroxytamoxifen DEX And Retinoic Acids Regulation Of P27 WP3879	2.303983e-01	3.762059e-01	0	0	3.965860e+00	5.821667e+00	PBK
+WikiPathways_2024_Human	Thyroxine Thyroid Hormone Production WP1981	2.303983e-01	3.762059e-01	0	0	3.965860e+00	5.821667e+00	TSHR
+WikiPathways_2024_Human	Allograft Rejection WP2328	2.334337e-01	3.765713e-01	0	0	2.215528e+00	3.223278e+00	GDNF;CXCL13
+WikiPathways_2024_Human	Growth Factors And Hormones In Beta Cell Proliferation WP5385	2.384209e-01	3.765713e-01	0	0	3.807120e+00	5.458337e+00	FOXM1
+WikiPathways_2024_Human	EPO Receptor Signaling WP581	2.384209e-01	3.765713e-01	0	0	3.807120e+00	5.458337e+00	PDK1
+WikiPathways_2024_Human	PPAR Alpha Pathway WP2878	2.384209e-01	3.765713e-01	0	0	3.807120e+00	5.458337e+00	CDK1
+WikiPathways_2024_Human	Sphingolipid Metabolism Integrated Pathway WP4726	2.384209e-01	3.765713e-01	0	0	3.807120e+00	5.458337e+00	PLPP2
+WikiPathways_2024_Human	Wnt Beta Catenin Signaling In Leukemia WP3658	2.384209e-01	3.765713e-01	0	0	3.807120e+00	5.458337e+00	SALL4
+WikiPathways_2024_Human	Sphingolipid Metabolism Overview WP4725	2.384209e-01	3.765713e-01	0	0	3.807120e+00	5.458337e+00	PLPP2
+WikiPathways_2024_Human	GPCRs Other WP117	2.411251e-01	3.790711e-01	0	0	2.165056e+00	3.079661e+00	OR2B6;CELSR3
+WikiPathways_2024_Human	FGFR3 Signal Chondrocyte Proliferation Terminal Differentiation WP4767	2.463600e-01	3.837313e-01	0	0	3.660592e+00	5.128348e+00	PTHLH
+WikiPathways_2024_Human	Canonical And Non Canonical Notch Signaling WP3845	2.463600e-01	3.837313e-01	0	0	3.660592e+00	5.128348e+00	DLL3
+WikiPathways_2024_Human	lncRNA In Canonical Wnt Signaling And Colorectal Cancer WP4258	2.488278e-01	3.857972e-01	0	0	2.116827e+00	2.944495e+00	TFAP2A;EZH2
+WikiPathways_2024_Human	T Cell Receptor And Co Stimulatory Signaling WP2583	2.542166e-01	3.905692e-01	0	0	3.524918e+00	4.827616e+00	PDK1
+WikiPathways_2024_Human	Dravet Syndrome WP5200	2.542166e-01	3.905692e-01	0	0	3.524918e+00	4.827616e+00	SCN8A
+WikiPathways_2024_Human	Disorders Of Bile Acid Synthesis And Biliary Transport WP5176	2.619915e-01	3.988880e-01	0	0	3.398934e+00	4.552679e+00	ABCC2
+WikiPathways_2024_Human	One Carbon Metabolism WP241	2.619915e-01	3.988880e-01	0	0	3.398934e+00	4.552679e+00	DNMT3B
+WikiPathways_2024_Human	Inflammatory Response Pathway WP453	2.696856e-01	4.069363e-01	0	0	3.281639e+00	4.300583e+00	COL3A1
+WikiPathways_2024_Human	Matrix Metalloproteinases WP129	2.696856e-01	4.069363e-01	0	0	3.281639e+00	4.300583e+00	MMP11
+WikiPathways_2024_Human	17Q12 Copy Number Variation Syndrome WP5287	2.719665e-01	4.085541e-01	0	0	1.984197e+00	2.583577e+00	RDM1;LHX1
+WikiPathways_2024_Human	GABA Receptor Signaling WP4159	2.772996e-01	4.128955e-01	0	0	3.172164e+00	4.068797e+00	GABRA3
+WikiPathways_2024_Human	Constitutive Androstane Receptor Pathway WP2875	2.772996e-01	4.128955e-01	0	0	3.172164e+00	4.068797e+00	ABCC2
+WikiPathways_2024_Human	Prader Willi And Angelman Syndrome WP3998	2.835318e-01	4.203234e-01	0	0	1.923911e+00	2.424957e+00	CDKN2A;CDC6
+WikiPathways_2024_Human	PI3K AKT mTOR Signaling And Therapeutic In Prostate Cancer WP3844	2.848345e-01	4.204016e-01	0	0	3.069752e+00	3.855138e+00	PDK1
+WikiPathways_2024_Human	Mammary Gland Development Pregnancy And Lactation Stage 3 Of 4 WP2817	2.922910e-01	4.204016e-01	0	0	2.973740e+00	3.657716e+00	GJB2
+WikiPathways_2024_Human	Nuclear Receptors In Lipid Metabolism And Toxicity WP299	2.922910e-01	4.204016e-01	0	0	2.973740e+00	3.657716e+00	ABCC2
+WikiPathways_2024_Human	Purinergic Signaling WP4900	2.922910e-01	4.204016e-01	0	0	2.973740e+00	3.657716e+00	P2RY6
+WikiPathways_2024_Human	Leukocyte Intrinsic Hippo Pathway Functions WP4542	2.922910e-01	4.204016e-01	0	0	2.973740e+00	3.657716e+00	CD19
+WikiPathways_2024_Human	Disruption Of Postsynaptic Signaling By CNV WP4875	2.922910e-01	4.204016e-01	0	0	2.973740e+00	3.657716e+00	STX1A
+WikiPathways_2024_Human	Cardiomyocyte Signaling Converging On Titin WP5344	2.922910e-01	4.204016e-01	0	0	2.973740e+00	3.657716e+00	FHL2
+WikiPathways_2024_Human	JAK STAT Signaling In The Regulation Of Beta Cells WP5358	2.996700e-01	4.291884e-01	0	0	2.883548e+00	3.474886e+00	FOXM1
+WikiPathways_2024_Human	Photodynamic Therapy Induced NF kB Survival Signaling WP3617	3.069723e-01	4.359522e-01	0	0	2.798660e+00	3.305212e+00	BIRC5
+WikiPathways_2024_Human	Influence Of Laminopathies On Wnt Signaling WP4844	3.069723e-01	4.359522e-01	0	0	2.798660e+00	3.305212e+00	HMGA2
+WikiPathways_2024_Human	Vitamin D Sensitive Calcium Signaling In Depression WP4698	3.141986e-01	4.443478e-01	0	0	2.718624e+00	3.147433e+00	KCNQ2
+WikiPathways_2024_Human	CAMKK2 Pathway WP4874	3.180856e-01	4.479705e-01	0	0	1.763148e+00	2.019571e+00	SLC2A1;GALNT9
+WikiPathways_2024_Human	Amyotrophic Lateral Sclerosis ALS WP2447	3.213497e-01	4.506896e-01	0	0	2.643034e+00	3.000439e+00	NEFL
+WikiPathways_2024_Human	Relevant Molecular Pathways And Targeted Agents In TNBC WP5215	3.284265e-01	4.568237e-01	0	0	2.571530e+00	2.863250e+00	PDK1
+WikiPathways_2024_Human	mBDNF And proBDNF Regulation Of GABA Neurotransmission WP4829	3.284265e-01	4.568237e-01	0	0	2.571530e+00	2.863250e+00	GABRA3
+WikiPathways_2024_Human	Histone Modifications WP2369	3.354296e-01	4.627560e-01	0	0	2.503789e+00	2.734996e+00	EZH2
+WikiPathways_2024_Human	Kisspeptin Kisspeptin Receptor System In The Ovary WP4871	3.354296e-01	4.627560e-01	0	0	2.503789e+00	2.734996e+00	PDK1
+WikiPathways_2024_Human	Gastrin Signaling WP4659	3.371220e-01	4.632002e-01	0	0	1.684900e+00	1.832009e+00	CDKN2A;BIRC5
+WikiPathways_2024_Human	Bladder Cancer WP2828	3.423600e-01	4.684926e-01	0	0	2.439522e+00	2.614906e+00	CDKN2A
+WikiPathways_2024_Human	Nucleotide Binding Oligomerization Domain NOD Pathway WP1433	3.492182e-01	4.740392e-01	0	0	2.378469e+00	2.502288e+00	AIM2
+WikiPathways_2024_Human	Glycosaminoglycan Synthesis In Fibroblasts WP5395	3.492182e-01	4.740392e-01	0	0	2.378469e+00	2.502288e+00	HS6ST2
+WikiPathways_2024_Human	Splicing Factor NOVA Regulated Synaptic Proteins WP4148	3.560051e-01	4.794013e-01	0	0	2.320393e+00	2.396526e+00	KCNQ2
+WikiPathways_2024_Human	Metabolic Reprogramming In Pancreatic Cancer WP5220	3.560051e-01	4.794013e-01	0	0	2.320393e+00	2.396526e+00	SLC2A1
+WikiPathways_2024_Human	Fragile X Syndrome WP4549	3.597485e-01	4.825198e-01	0	0	1.599682e+00	1.635435e+00	CDKN2A;PDK1
+WikiPathways_2024_Human	15Q25 Copy Number Variation WP5408	3.627214e-01	4.826765e-01	0	0	2.265084e+00	2.297067e+00	SLC2A1
+WikiPathways_2024_Human	Vitamin A And Carotenoid Metabolism WP716	3.627214e-01	4.826765e-01	0	0	2.265084e+00	2.297067e+00	CRABP2
+WikiPathways_2024_Human	Nucleotide Excision Repair WP4753	3.693679e-01	4.839005e-01	0	0	2.212346e+00	2.203413e+00	POLE2
+WikiPathways_2024_Human	Nephrotic Syndrome WP4758	3.693679e-01	4.839005e-01	0	0	2.212346e+00	2.203413e+00	ANLN
+WikiPathways_2024_Human	IL11 Signaling WP2332	3.693679e-01	4.839005e-01	0	0	2.212346e+00	2.203413e+00	BIRC5
+WikiPathways_2024_Human	Notch Signaling WP268	3.693679e-01	4.839005e-01	0	0	2.212346e+00	2.203413e+00	DLL3
+WikiPathways_2024_Human	Aryl Hydrocarbon Receptor Pathway WP2873	3.759452e-01	4.859754e-01	0	0	2.162006e+00	2.115117e+00	NQO1
+WikiPathways_2024_Human	Endoplasmic Reticulum Stress Response In Coronavirus Infection WP4861	3.824540e-01	4.859754e-01	0	0	2.113903e+00	2.031772e+00	PPP1R14D
+WikiPathways_2024_Human	Translation Inhibitors In Chronically Activated PDGFRA Cells WP4566	3.824540e-01	4.859754e-01	0	0	2.113903e+00	2.031772e+00	PDK1
+WikiPathways_2024_Human	T Cell Modulation In Pancreatic Cancer WP5078	3.824540e-01	4.859754e-01	0	0	2.113903e+00	2.031772e+00	FAP
+WikiPathways_2024_Human	Selenium Metabolism And Selenoproteins WP28	3.824540e-01	4.859754e-01	0	0	2.113903e+00	2.031772e+00	GPX2
+WikiPathways_2024_Human	NO cGMP PKG Mediated Neuroprotection WP4008	3.824540e-01	4.859754e-01	0	0	2.113903e+00	2.031772e+00	NEFL
+WikiPathways_2024_Human	Exercise Induced Circadian Regulation WP410	3.824540e-01	4.859754e-01	0	0	2.113903e+00	2.031772e+00	TUBB3
+WikiPathways_2024_Human	Aryl Hydrocarbon Receptor Pathway WP2586	3.824540e-01	4.859754e-01	0	0	2.113903e+00	2.031772e+00	NQO1
+WikiPathways_2024_Human	RANKL RANK Signaling WP2018	4.078194e-01	5.143394e-01	0	0	1.941126e+00	1.741056e+00	FHL2
+WikiPathways_2024_Human	Translation Factors WP107	4.078194e-01	5.143394e-01	0	0	1.941126e+00	1.741056e+00	EEF1A2
+WikiPathways_2024_Human	Synaptic Vesicle Pathway WP2267	4.139967e-01	5.163501e-01	0	0	1.902251e+00	1.677590e+00	STX1A
+WikiPathways_2024_Human	Vitamin B12 Metabolism WP1533	4.139967e-01	5.163501e-01	0	0	1.902251e+00	1.677590e+00	TCN1
+WikiPathways_2024_Human	Copper Homeostasis WP3286	4.139967e-01	5.163501e-01	0	0	1.902251e+00	1.677590e+00	STEAP1
+WikiPathways_2024_Human	Neuroinflammation And Glutamatergic Signaling WP5083	4.292649e-01	5.330847e-01	0	0	1.378714e+00	1.165952e+00	PSAT1;SLC2A1
+WikiPathways_2024_Human	Notch Signaling WP61	4.321455e-01	5.330847e-01	0	0	1.794429e+00	1.505513e+00	DLL3
+WikiPathways_2024_Human	11P11 2 Copy Number Variation Syndrome WP5348	4.321455e-01	5.330847e-01	0	0	1.794429e+00	1.505513e+00	CD19
+WikiPathways_2024_Human	Overlap Between Signal Transduction Pathways LMNA Laminopathies WP4879	4.380697e-01	5.364767e-01	0	0	1.761150e+00	1.453613e+00	HMGA2
+WikiPathways_2024_Human	Pathogenic Escherichia Coli Infection WP2272	4.380697e-01	5.364767e-01	0	0	1.761150e+00	1.453613e+00	TUBB3
+WikiPathways_2024_Human	10Q22Q23 Copy Number Variation WP5402	4.497337e-01	5.467986e-01	0	0	1.698158e+00	1.356997e+00	BUB1B
+WikiPathways_2024_Human	Neurogenesis Regulation In The Olfactory Epithelium WP5265	4.497337e-01	5.467986e-01	0	0	1.698158e+00	1.356997e+00	LRP8
+WikiPathways_2024_Human	Nucleotide Excision Repair In Xeroderma Pigmentosum WP5114	4.554749e-01	5.498232e-01	0	0	1.668320e+00	1.311991e+00	POLE2
+WikiPathways_2024_Human	Thyroid Stimulating Hormone TSH Signaling WP2032	4.554749e-01	5.498232e-01	0	0	1.668320e+00	1.311991e+00	TSHR
+WikiPathways_2024_Human	PI3K Akt Signaling WP4172	4.667277e-01	5.585501e-01	0	0	1.142567e+00	8.706469e-01	GNGT1;PPP2R2C;CD19;THBS2
+WikiPathways_2024_Human	TAR Syndrome WP5362	4.667785e-01	5.585501e-01	0	0	1.611678e+00	1.227938e+00	POLR3G
+WikiPathways_2024_Human	Smith Magenis And Potocki Lupski Syndrome Copy Number Variation WP5381	4.676617e-01	5.585501e-01	0	0	1.276542e+00	9.701845e-01	RMI2;CDK1
+WikiPathways_2024_Human	T Cell Antigen Receptor TCR Pathway During Staph A. Infection WP3863	4.778482e-01	5.667112e-01	0	0	1.558750e+00	1.151078e+00	PDK1
+WikiPathways_2024_Human	Lung Fibrosis WP3624	4.778482e-01	5.667112e-01	0	0	1.558750e+00	1.151078e+00	GREM1
+WikiPathways_2024_Human	Myometrial Relaxation And Contraction Pathways WP289	4.846020e-01	5.727115e-01	0	0	1.234925e+00	8.946135e-01	GNGT1;RGS17
+WikiPathways_2024_Human	Ferroptosis WP4313	4.886886e-01	5.755287e-01	0	0	1.509183e+00	1.080620e+00	SLC7A11
+WikiPathways_2024_Human	Physico Chemical Features And Toxicity Associated Pathways WP3680	4.993045e-01	5.859893e-01	0	0	1.462666e+00	1.015879e+00	NEFL
+WikiPathways_2024_Human	GPCRs Class A Rhodopsin Like WP455	5.022332e-01	5.873869e-01	0	0	1.122949e+00	7.733643e-01	P2RY6;GPR87;OR2B6
+WikiPathways_2024_Human	RAC1 PAK1 P38 MMP2 Pathway WP3303	5.097005e-01	5.879822e-01	0	0	1.418926e+00	9.562597e-01	BIRC5
+WikiPathways_2024_Human	Acute Myeloid Leukemia WP5293	5.097005e-01	5.879822e-01	0	0	1.418926e+00	9.562597e-01	CCNA2
+WikiPathways_2024_Human	Folate Metabolism WP176	5.097005e-01	5.879822e-01	0	0	1.418926e+00	9.562597e-01	GPX2
+WikiPathways_2024_Human	Melanoma WP4685	5.097005e-01	5.879822e-01	0	0	1.418926e+00	9.562597e-01	CDKN2A
+WikiPathways_2024_Human	Chemokine Signaling WP3929	5.142365e-01	5.911971e-01	0	0	1.166449e+00	7.757727e-01	GNGT1;CXCL13
+WikiPathways_2024_Human	Parkin Ubiquitin Proteasomal System Pathway WP2359	5.198813e-01	5.936483e-01	0	0	1.377722e+00	9.012435e-01	TUBB3
+WikiPathways_2024_Human	Glucocorticoid Receptor Pathway WP2880	5.198813e-01	5.936483e-01	0	0	1.377722e+00	9.012435e-01	ZIC2
+WikiPathways_2024_Human	Leptin Signaling WP2034	5.248923e-01	5.973522e-01	0	0	1.358003e+00	8.753172e-01	LEP
+WikiPathways_2024_Human	Primary Focal Segmental Glomerulosclerosis FSGS WP2572	5.298512e-01	5.989622e-01	0	0	1.338839e+00	8.503759e-01	MKI67
+WikiPathways_2024_Human	Peptide GPCRs WP24	5.298512e-01	5.989622e-01	0	0	1.338839e+00	8.503759e-01	TSHR
+WikiPathways_2024_Human	Affected Pathways In Duchenne Muscular Dystrophy WP5356	5.347585e-01	6.004929e-01	0	0	1.320208e+00	8.263711e-01	ATP2A1
+WikiPathways_2024_Human	Head And Neck Squamous Cell Carcinoma WP4674	5.347585e-01	6.004929e-01	0	0	1.320208e+00	8.263711e-01	CDKN2A
+WikiPathways_2024_Human	Regulatory Circuits Of STAT3 Signaling WP4538	5.585389e-01	6.251197e-01	0	0	1.234310e+00	7.189005e-01	IL20RB
+WikiPathways_2024_Human	Bardet Biedl Syndrome WP5234	5.677081e-01	6.332849e-01	0	0	1.202996e+00	6.810735e-01	ZIC2
+WikiPathways_2024_Human	Glioblastoma Signaling WP2261	5.766872e-01	6.411852e-01	0	0	1.173227e+00	6.458091e-01	CDKN2A
+WikiPathways_2024_Human	Androgen Receptor Signaling WP138	5.898084e-01	6.514877e-01	0	0	1.131233e+00	5.972429e-01	FHL2
+WikiPathways_2024_Human	ncRNAs In Wnt Signaling In Hepatocellular Carcinoma WP4336	5.898084e-01	6.514877e-01	0	0	1.131233e+00	5.972429e-01	EZH2
+WikiPathways_2024_Human	T Cell Activation SARS CoV 2 WP5098	6.025239e-01	6.633651e-01	0	0	1.092135e+00	5.533058e-01	CDKN2A
+WikiPathways_2024_Human	TNF Alpha Signaling WP231	6.066745e-01	6.636115e-01	0	0	1.079694e+00	5.395912e-01	PLK1
+WikiPathways_2024_Human	Pancreatic Adenocarcinoma Pathway WP4263	6.066745e-01	6.636115e-01	0	0	1.079694e+00	5.395912e-01	CDKN2A
+WikiPathways_2024_Human	Focal Adhesion WP306	6.128825e-01	6.661705e-01	0	0	9.691735e-01	4.744899e-01	STYK1;THBS2
+WikiPathways_2024_Human	G Protein Signaling WP35	6.148463e-01	6.661705e-01	0	0	1.055643e+00	5.134467e-01	GNGT1
+WikiPathways_2024_Human	Genes Related To Primary Cilium Development Based On CRISPR WP4536	6.188684e-01	6.661705e-01	0	0	1.044014e+00	5.009830e-01	TEDC2
+WikiPathways_2024_Human	B Cell Receptor Signaling WP23	6.188684e-01	6.661705e-01	0	0	1.044014e+00	5.009830e-01	CD19
+WikiPathways_2024_Human	Corticotropin Releasing Hormone Signaling WP2355	6.188684e-01	6.661705e-01	0	0	1.044014e+00	5.009830e-01	TFAP2A
+WikiPathways_2024_Human	Thyroid Hormones And Peripheral Downstream Signaling Effects WP4746	6.228487e-01	6.683266e-01	0	0	1.032637e+00	4.889037e-01	TSHR
+WikiPathways_2024_Human	Complement System WP2806	6.267875e-01	6.704247e-01	0	0	1.021505e+00	4.771938e-01	CD19
+WikiPathways_2024_Human	1P36 Copy Number Variation Syndrome WP5345	6.495736e-01	6.899785e-01	0	0	9.594373e-01	4.139388e-01	TNFRSF18
+WikiPathways_2024_Human	VEGFA VEGFR2 Signaling WP3888	6.498256e-01	6.899785e-01	0	0	8.993735e-01	3.876761e-01	FHL2;PBK;BIRC5;TNFRSF25
+WikiPathways_2024_Human	Wnt Signaling And Pluripotency WP399	6.532340e-01	6.899785e-01	0	0	9.498168e-01	4.044508e-01	PPP2R2C
+WikiPathways_2024_Human	7Q11 23 Copy Number Variation Syndrome WP4932	6.532340e-01	6.899785e-01	0	0	9.498168e-01	4.044508e-01	STX1A
+WikiPathways_2024_Human	5Q35 Copy Number Variation WP5380	6.639880e-01	6.969812e-01	0	0	9.220759e-01	3.775819e-01	ANKS4B
+WikiPathways_2024_Human	Complement System In Neuronal Development And Plasticity WP5090	6.639880e-01	6.969812e-01	0	0	9.220759e-01	3.775819e-01	DLGAP5
+WikiPathways_2024_Human	Macrophage Stimulating Protein MSP Signaling WP5353	6.778110e-01	7.092883e-01	0	0	8.875080e-01	3.451401e-01	SLC2A1
+WikiPathways_2024_Human	22Q11 2 Copy Number Variation Syndrome WP4657	6.942948e-01	7.242952e-01	0	0	8.477702e-01	3.093162e-01	PLK1
+WikiPathways_2024_Human	Osteoblast Differentiation And Related Diseases WP4787	7.099374e-01	7.383349e-01	0	0	8.114288e-01	2.779781e-01	DLL3
+WikiPathways_2024_Human	Hippo Merlin Signaling Dysregulation WP4541	7.129687e-01	7.392130e-01	0	0	8.045301e-01	2.721868e-01	FOXM1
+WikiPathways_2024_Human	Effect Of Omega 3 PUFA On Huntington 39 S Disease Pathways WP5470	7.159685e-01	7.400531e-01	0	0	7.977474e-01	2.665426e-01	GABRA3
+WikiPathways_2024_Human	Ebola Virus Infection In Host WP4217	7.388678e-01	7.590800e-01	0	0	7.473307e-01	2.261694e-01	TFAP2A
+WikiPathways_2024_Human	Overview Of Proinflammatory And Profibrotic Mediators WP5095	7.388678e-01	7.590800e-01	0	0	7.473307e-01	2.261694e-01	CXCL13
+WikiPathways_2024_Human	Angiopoietin Like Protein 8 Regulatory Pathway WP3915	7.469720e-01	7.650804e-01	0	0	7.300242e-01	2.129682e-01	SLC2A1
+WikiPathways_2024_Human	Alzheimer 39 S Disease WP5124	7.574523e-01	7.711412e-01	0	0	7.321517e-01	2.033879e-01	TUBB3;ATP2A1
+WikiPathways_2024_Human	Alzheimer 39 S Disease And miRNA Effects WP2059	7.574523e-01	7.711412e-01	0	0	7.321517e-01	2.033879e-01	TUBB3;ATP2A1
+WikiPathways_2024_Human	Hepatitis B Infection WP4666	7.927820e-01	7.998815e-01	0	0	6.366000e-01	1.478230e-01	BIRC5
+WikiPathways_2024_Human	Nonalcoholic Fatty Liver Disease WP4396	7.927820e-01	7.998815e-01	0	0	6.366000e-01	1.478230e-01	LEP
+WikiPathways_2024_Human	Regulation Of Actin Cytoskeleton WP51	7.927820e-01	7.998815e-01	0	0	6.366000e-01	1.478230e-01	VIL1
+WikiPathways_2024_Human	Breast Cancer Pathway WP4262	8.013171e-01	8.060869e-01	0	0	6.198884e-01	1.373044e-01	DLL3
+WikiPathways_2024_Human	Insulin Signaling WP481	8.134668e-01	8.158806e-01	0	0	5.963976e-01	1.231264e-01	SLC2A1
+WikiPathways_2024_Human	Ras Signaling WP4223	8.535583e-01	8.535583e-01	0	0	5.206979e-01	8.244804e-02	GNGT1
